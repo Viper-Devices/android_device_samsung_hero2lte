@@ -1,3 +1,2 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/lineage.mk \
-	$(LOCAL_DIR)/lineage_hero2lte.mk
+	$(LOCAL_DIR)/viper_hero2lte.mk \
